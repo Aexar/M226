@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarbonFootprintCalculator", "CarbonFootprintCalculator\CarbonFootprintCalculator.csproj", "{E1D539B0-DECF-4FBF-890D-C0B024E43C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarbonFootprintCalculatorTests", "CarbonFootprintCalculatorTests\CarbonFootprintCalculatorTests.csproj", "{5ACA98B9-6B7E-4D71-A127-3E7498A8F408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1D539B0-DECF-4FBF-890D-C0B024E43C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D539B0-DECF-4FBF-890D-C0B024E43C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D539B0-DECF-4FBF-890D-C0B024E43C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D539B0-DECF-4FBF-890D-C0B024E43C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACA98B9-6B7E-4D71-A127-3E7498A8F408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACA98B9-6B7E-4D71-A127-3E7498A8F408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACA98B9-6B7E-4D71-A127-3E7498A8F408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACA98B9-6B7E-4D71-A127-3E7498A8F408}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36BA959C-0D0E-46D3-8CB0-586007F50866}
+	EndGlobalSection
+EndGlobal
